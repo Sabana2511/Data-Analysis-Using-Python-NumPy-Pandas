@@ -220,7 +220,7 @@ Data Manipulation
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone < https://github.com/Sabana2511/Data-Analysis-Using-Python-NumPy-Pandas.git >
 ```
 
 ### 2. Navigate to the project directory
