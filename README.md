@@ -212,39 +212,6 @@ Value Counts
 Unique Values
 Data Manipulation
 ```
-
----
-
-## 🚀 How to Run the Project
-
-### 1. Clone the repository
-
-```bash
-git clone < https://github.com/Sabana2511/Data-Analysis-Using-Python-NumPy-Pandas.git >
-```
-
-### 2. Navigate to the project directory
-
-```bash
-cd Python_DA_Project
-```
-
-### 3. Install required libraries
-
-```bash
-pip install numpy pandas
-```
-
-### 4. Run the Notebook
-
-Open:
-
-```text
-Python_DA_Project.ipynb
-```
-
-using **Jupyter Notebook**, **JupyterLab**, or **Google Colab**.
-
 ---
 
 ## 👩‍💻 Author
